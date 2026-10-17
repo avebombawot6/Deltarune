@@ -234,4 +234,4 @@ DELTARUNE is offered as a complete free version, including all features and upda
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-17 16:17:02 UTC
+**Last updated:** 2026-10-17 19:10:23 UTC
